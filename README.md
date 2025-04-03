@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- Aspiring Software Developer
+- 🔭 I’m currently working on Jake-Nagle123/PlaceMark
+- 🌱 I’m currently learning AWS in the Cloud platform and Full Stack Website Development (both front-end and back-end)
+
 <!--
 **Jake-Nagle123/Jake-Nagle123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
